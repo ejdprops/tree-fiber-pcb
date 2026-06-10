@@ -1,0 +1,40 @@
+# KiCad
+*.lck
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+
+# C/C++ build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+build/
+
+# Arduino / AVR toolchain
+*.eep
+*.lss
+*.sym
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
